@@ -7,7 +7,6 @@ print(type('Amin')) #'str'
 print(type(False))  #'bool'
 print(type(float(4)))   #'float'
 print(type(int(3.1)))   #'int'
-print('-----------------------------')#-----------------------------
 print(type(str(20)))   #'str'
 print(type(bool(0)))    #'bool'
 print(type(bool(1)))    #'bool'
