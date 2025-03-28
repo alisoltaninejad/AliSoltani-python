@@ -1,4 +1,4 @@
-print('Ali Soltani | check types')
+print('-------- Ali Soltani | check types --------')
 print(type(True))   #'bool'
 print(type(None))   #'NoneType'
 print(type(1234))   #'int'
