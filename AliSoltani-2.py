@@ -11,7 +11,7 @@ print(a // b)  # 3
 print(a % b)  # 1
 print(a ** b)  #  1000
 
-print('عملگرهای جبری (Comparison Operators)')
+print('عملگرهای مقایسه ای (Comparison Operators)')
 x = 5
 y = 8
 print(x == y)  #  False
